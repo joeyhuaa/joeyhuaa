@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello World 🌎 I'm Joey 
+
+I'm a full-stack developer based in California.
 
 <!--
 **joeyhuaa/joeyhuaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
