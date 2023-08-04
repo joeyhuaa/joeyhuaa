@@ -1,4 +1,4 @@
-### Hello World  🌎  I'm Joey 👋
+# Hello World  🌎  I'm Joey 👋
 
 ## Languages and Tools 🛠️
 
